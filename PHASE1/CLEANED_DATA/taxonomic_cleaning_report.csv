@@ -1,0 +1,842 @@
+original_name,cleaned_name,modified_flag
+Ducula aenea,Ducula aenea,False
+Dicaeum virescens,Dicaeum virescens,False
+Collocalia affinis,Collocalia affinis,False
+Amaurornis phoenicurus,Amaurornis phoenicurus,False
+Butorides striata,Butorides striata,False
+Todiramphus chloris,Todiramphus chloris,False
+Psittacula alexandri,Psittacula alexandri,False
+Lanius cristatus,Lanius cristatus,False
+Copsychus saularis,Copsychus saularis,False
+Psittacula longicauda,Psittacula longicauda,False
+Eurystomus orientalis,Eurystomus orientalis,False
+Sterna sumatrana,Sterna sumatrana,False
+Tringa totanus,Tringa totanus,False
+Passer domesticus,Passer domesticus,False
+Alcedo meninting,Alcedo meninting,False
+Gallinula chloropus,Gallinula chloropus,False
+Phylloscopus inornatus,Phylloscopus inornatus,False
+Loriculus vernalis,Loriculus vernalis,False
+Centropus andamanensis,Centropus andamanensis,False
+Pycnonotus jocosus,Pycnonotus jocosus,False
+Pericrocotus speciosus,Pericrocotus speciosus,False
+Numenius arquata,Numenius arquata,False
+Aplonis panayensis,Aplonis panayensis,False
+Muscicapa latirostris,Muscicapa latirostris,False
+Macropygia rufipennis,Macropygia rufipennis,False
+Psittacula eupatria,Psittacula eupatria,False
+Acridotheres tristis,Acridotheres tristis,False
+Hypothymis azurea,Hypothymis azurea,False
+Egretta intermedia,Egretta intermedia,False
+Halcyon smyrnensis,Halcyon smyrnensis,False
+Cinnyris jugularis,Cinnyris jugularis,False
+Ixobrychus sinensis,Ixobrychus sinensis,False
+Streptopelia tranquebarica,Streptopelia tranquebarica,False
+Ardea alba,Ardea alba,False
+Pericrocotus cinnamomeus,Pericrocotus cinnamomeus,False
+Irena puella,Irena puella,False
+Dicrurus paradiseus,Dicrurus paradiseus,False
+Sturnia erythropygia,Sturnia erythropygia,False
+Spilornis elgini,Spilornis elgini,False
+Ixobrychus cinnamomeus,Ixobrychus cinnamomeus,False
+Oriolus chinensis,Oriolus chinensis,False
+Rhyticeros narcondami,Rhyticeros narcondami,False
+Pycnonotus fuscoflavescens,Pycnonotus fuscoflavescens,False
+Nettapus coromandelianus,Nettapus coromandelianus,False
+Charadrius mongolus,Charadrius mongolus,False
+Actitis hypoleucos,Actitis hypoleucos,False
+Treron chloropterus,Treron chloropterus,False
+Zosterops palpebrosus,Zosterops palpebrosus,False
+Pelargopsis capensis,Pelargopsis capensis,False
+Eudynamys scolopaceus,Eudynamys scolopaceus,False
+Columba palumboides,Columba palumboides,False
+Tyto deroepstorffi,Tyto deroepstorffi,False
+Dicrurus andamanensis,Dicrurus andamanensis,False
+Charadrius dubius,Charadrius dubius,False
+Gallicrex cinerea,Gallicrex cinerea,False
+Otus balli,Otus balli,False
+Dendronanthus indicus,Dendronanthus indicus,False
+Copsychus albiventris,Copsychus albiventris,False
+Egretta sacra,Egretta sacra,False
+Psittacula caniceps,Psittacula caniceps,False
+Numenius phaeopus,Numenius phaeopus,False
+Motacilla cinerea,Motacilla cinerea,False
+Dendrocygna javanica,Dendrocygna javanica,False
+Glareola maldivarum,Glareola maldivarum,False
+Cecropis daurica,Cecropis daurica,False
+Pachycephala cinerea,Pachycephala cinerea,False
+Pluvialis fulva,Pluvialis fulva,False
+Anas gibberifrons,Anas gibberifrons,False
+Merops leschenaulti,Merops leschenaulti,False
+Corvus macrorhynchos,Corvus macrorhynchos,False
+Alcedo atthis,Alcedo atthis,False
+Acrocephalus orientalis,Acrocephalus orientalis,False
+Artamus leucoryn,Artamus leucoryn,False
+Egretta garzetta,Egretta garzetta,False
+Dicrurus leucophaeus,Dicrurus leucophaeus,False
+Anas penelope,Anas penelope,False
+Hirundo tahitica,Hirundo tahitica,False
+Hirundo rustica,Hirundo rustica,False
+Motacilla tschutschensis,Motacilla tschutschensis,False
+Aerodramus fuciphagus,Aerodramus fuciphagus,False
+Lonchura striata,Lonchura striata,False
+Ardea cinerea,Ardea cinerea,False
+Haliaeetus leucogaster,Haliaeetus leucogaster,False
+Columba livia,Columba livia,False
+Tringa stagnatilis,Tringa stagnatilis,False
+Calidris subminuta,Calidris subminuta,False
+Chlidonias hybrida,Chlidonias hybrida,False
+Dicrurus macrocercus,Dicrurus macrocercus,False
+Geokichla citrina,Geokichla citrina,False
+Calidris ruficollis,Calidris ruficollis,False
+Gallinago gallinago,Gallinago gallinago,False
+Corvus splendens,Corvus splendens,False
+Ixos nicobariensis,Ixos nicobariensis,False
+Gracula religiosa,Gracula religiosa,False
+Phylloscopus fuscatus,Phylloscopus fuscatus,False
+Dendrocopos analis,Dendrocopos analis,False
+Ardeola grayii,Ardeola grayii,False
+Chalcophaps indica,Chalcophaps indica,False
+Calidris ferruginea,Calidris ferruginea,False
+Hydrophasianus chirurgus,Hydrophasianus chirurgus,False
+Fulica atra,Fulica atra,False
+Himantopus himantopus,Himantopus himantopus,False
+Gallinago stenura,Gallinago stenura,False
+Dendrocitta bayleii,Dendrocitta bayleii,False
+Tringa glareola,Tringa glareola,False
+Merops philippinus,Merops philippinus,False
+Ninox obscura,Ninox obscura,False
+Caprimulgus andamanicus,Caprimulgus andamanicus,False
+Chrysococcyx xanthorhynchus,Chrysococcyx xanthorhynchus,False
+Tringa nebularia,Tringa nebularia,False
+Aviceda leuphotes,Aviceda leuphotes,False
+Cuculus micropterus,Cuculus micropterus,False
+Bubulcus ibis,Bubulcus ibis,False
+Agropsar sturninus,Agropsar sturninus,False
+Sternula albifrons,Sternula albifrons,False
+Coracina dobsoni,Coracina dobsoni,False
+Otus sunia,Otus sunia,False
+Spilornis cheela,Spilornis cheela,False
+Acrocephalus bistrigiceps,Acrocephalus bistrigiceps,False
+Porzana pusilla,Porzana pusilla,False
+Lonchura punctulata,Lonchura punctulata,False
+Charadrius leschenaultii,Charadrius leschenaultii,False
+Nisaetus cirrhatus,Nisaetus cirrhatus,False
+Hirundapus giganteus,Hirundapus giganteus,False
+Halcyon coromanda,Halcyon coromanda,False
+Pericrocotus divaricatus,Pericrocotus divaricatus,False
+Ducula bicolor,Ducula bicolor,False
+Coracina macei,Coracina macei,False
+Pastor roseus,Pastor roseus,False
+Arenaria interpres,Arenaria interpres,False
+Porphyrio porphyrio,Porphyrio porphyrio,False
+Caloenas nicobarica,Caloenas nicobarica,False
+Ardea purpurea,Ardea purpurea,False
+Ardeola bacchus,Ardeola bacchus,False
+Ninox affinis,Ninox affinis,False
+Rallina canningi,Rallina canningi,False
+Anthus cervinus,Anthus cervinus,False
+Circus melanoleucos,Circus melanoleucos,False
+Ducula nicobarica,Ducula nicobarica,False
+Acrocephalus stentoreus,Acrocephalus stentoreus,False
+Esacus magnirostris,Esacus magnirostris,False
+Iduna aedon,Iduna aedon,False
+Phylloscopus borealoides,Phylloscopus borealoides,False
+Rallina fasciata,Rallina fasciata,False
+Haliastur indus,Haliastur indus,False
+Dryocopus hodgei,Dryocopus hodgei,False
+Aethopyga siparaja,Aethopyga siparaja,False
+Xenus cinereus,Xenus cinereus,False
+Ficedula albicilla,Ficedula albicilla,False
+Anas querquedula,Anas querquedula,False
+Egretta eulophotes,Egretta eulophotes,False
+Aix galericulata,Aix galericulata,False
+Delichon dasypus,Delichon dasypus,False
+Halcyon pileata,Halcyon pileata,False
+Porzana cinerea,Porzana cinerea,False
+Gallirallus striatus,Gallirallus striatus,False
+Clamator jacobinus,Clamator jacobinus,False
+Limosa lapponica,Limosa lapponica,False
+Anastomus oscitans,Anastomus oscitans,False
+Charadrius alexandrinus,Charadrius alexandrinus,False
+Phylloscopus borealis,Phylloscopus borealis,False
+Tringa ochropus,Tringa ochropus,False
+Falco peregrinus,Falco peregrinus,False
+Lalage nigra,Lalage nigra,False
+Caprimulgus jotaka,Caprimulgus jotaka,False
+Spilornis klossi,Spilornis klossi,False
+Oriolus xanthornus,Oriolus xanthornus,False
+Saxicola maurus,Saxicola maurus,False
+Cuculus sparverioides,Cuculus sparverioides,False
+Circus aeruginosus,Circus aeruginosus,False
+Cisticola juncidis,Cisticola juncidis,False
+Gorsachius melanolophus,Gorsachius melanolophus,False
+Thalasseus bengalensis,Thalasseus bengalensis,False
+Tringa erythropus,Tringa erythropus,False
+Saxicola stejnegeri,Saxicola stejnegeri,False
+Gelochelidon nilotica,Gelochelidon nilotica,False
+Milvus migrans,Milvus migrans,False
+Motacilla alba,Motacilla alba,False
+Rhinomyias nicobaricus,Rhinomyias nicobaricus,False
+Locustella lanceolata,Locustella lanceolata,False
+Accipiter soloensis,Accipiter soloensis,False
+Alauda gulgula,Alauda gulgula,False
+Pitta sordida,Pitta sordida,False
+Phylloscopus trochiloides,Phylloscopus trochiloides,False
+Porzana fusca,Porzana fusca,False
+Terpsiphone paradisi,Terpsiphone paradisi,False
+Locustella certhiola,Locustella certhiola,False
+Limosa limosa,Limosa limosa,False
+Cuculus poliocephalus,Cuculus poliocephalus,False
+Pluvialis squatarola,Pluvialis squatarola,False
+Thalasseus bergii,Thalasseus bergii,False
+Ficedula mugimaki,Ficedula mugimaki,False
+Glareola lactea,Glareola lactea,False
+Glareola pratincola,Glareola pratincola,False
+Pandion haliaetus,Pandion haliaetus,False
+Calidris minuta,Calidris minuta,False
+Anhinga melanogaster,Anhinga melanogaster,False
+Onychoprion anaethetus,Onychoprion anaethetus,False
+Anas acuta,Anas acuta,False
+Vanellus cinereus,Vanellus cinereus,False
+Francolinus pondicerianus,Francolinus pondicerianus,False
+Ninox scutulata,Ninox scutulata,False
+Otus alius,Otus alius,False
+Cuculus saturatus,Cuculus saturatus,False
+Nycticorax nycticorax,Nycticorax nycticorax,False
+Apus pacificus,Apus pacificus,False
+Pernis ptilorhynchus,Pernis ptilorhynchus,False
+Ficedula zanthopygia,Ficedula zanthopygia,False
+Dupetor flavicollis,Dupetor flavicollis,False
+Aythya nyroca,Aythya nyroca,False
+Falco amurensis,Falco amurensis,False
+Accipiter gularis,Accipiter gularis,False
+Dromas ardeola,Dromas ardeola,False
+Calidris alba,Calidris alba,False
+Megapodius nicobariensis,Megapodius nicobariensis,False
+Urosphena pallidipes,Urosphena pallidipes,False
+Luscinia cyane,Luscinia cyane,False
+Anas clypeata,Anas clypeata,False
+Turdus obscurus,Turdus obscurus,False
+Limicola falcinellus,Limicola falcinellus,False
+Upupa epops,Upupa epops,False
+Apus leuconyx,Apus leuconyx,False
+Sturnus vulgaris,Sturnus vulgaris,False
+Stercorarius parasiticus,Stercorarius parasiticus,False
+Falco tinnunculus,Falco tinnunculus,False
+Geokichla sibirica,Geokichla sibirica,False
+Ceyx erithaca,Ceyx erithaca,False
+Vanellus vanellus,Vanellus vanellus,False
+Calandrella brachydactyla,Calandrella brachydactyla,False
+Anous stolidus,Anous stolidus,False
+Phylloscopus magnirostris,Phylloscopus magnirostris,False
+Chrysococcyx maculatus,Chrysococcyx maculatus,False
+Chlidonias leucopterus,Chlidonias leucopterus,False
+Surniculus lugubris,Surniculus lugubris,False
+Stercorarius pomarinus,Stercorarius pomarinus,False
+Pericrocotus cantonensis,Pericrocotus cantonensis,False
+Sterna hirundo,Sterna hirundo,False
+Agropsar philippensis,Agropsar philippensis,False
+Accipiter virgatus,Accipiter virgatus,False
+Cyanoptila cyanomelana,Cyanoptila cyanomelana,False
+Cuculus nisicolor,Cuculus nisicolor,False
+Jynx torquilla,Jynx torquilla,False
+Accipiter butleri,Accipiter butleri,False
+Sterna dougallii,Sterna dougallii,False
+Philomachus pugnax,Philomachus pugnax,False
+Gallinago nemoricola,Gallinago nemoricola,False
+Anthus richardi,Anthus richardi,False
+Calidris tenuirostris,Calidris tenuirostris,False
+Emberiza chrysophrys,Emberiza chrysophrys,False
+Muscicapa ferruginea,Muscicapa ferruginea,False
+Emberiza hortulana,Emberiza hortulana,False
+Butastur indicus,Butastur indicus,False
+Cacomantis passerinus,Cacomantis passerinus,False
+Pitta moluccensis,Pitta moluccensis,False
+Pavo cristatus,Pavo cristatus,False
+Aythya fuligula,Aythya fuligula,False
+Merops persicus,Merops persicus,False
+Motacilla citreola,Motacilla citreola,False
+Tadorna ferruginea,Tadorna ferruginea,False
+Aviceda jerdoni,Aviceda jerdoni,False
+Sula dactylatra,Sula dactylatra,False
+Rallina eurizonoides,Rallina eurizonoides,False
+Rostratula benghalensis,Rostratula benghalensis,False
+Ardeola speciosa,Ardeola speciosa,False
+Cuculus canorus,Cuculus canorus,False
+Calidris temminckii,Calidris temminckii,False
+Emberiza pusilla,Emberiza pusilla,False
+Calidris melanotos,Calidris melanotos,False
+Microcarbo niger,Microcarbo niger,False
+Plegadis falcinellus,Plegadis falcinellus,False
+Larus fuscus,Larus fuscus,False
+Phaethon lepturus,Phaethon lepturus,False
+Muscicapa sibirica,Muscicapa sibirica,False
+Aerodramus brevirostris,Aerodramus brevirostris,False
+Fregata ariel,Fregata ariel,False
+Turnix tanki,Turnix tanki,False
+Puffinus pacificus,Puffinus pacificus,False
+Luscinia svecica,Luscinia svecica,False
+Carpodacus erythrinus,Carpodacus erythrinus,False
+Turdus mandarinus,Turdus mandarinus,False
+Emberiza spodocephala,Emberiza spodocephala,False
+Buteo rufinus,Buteo rufinus,False
+Cyornis rubeculoides,Cyornis rubeculoides,False
+Buteo buteo,Buteo buteo,False
+Tachybaptus ruficollis,Tachybaptus ruficollis,False
+Gallinago megala,Gallinago megala,False
+Phylloscopus affinis,Phylloscopus affinis,False
+Cacomantis sonneratii,Cacomantis sonneratii,False
+Sarkidiornis melanotos,Sarkidiornis melanotos,False
+Hirundapus caudacutus,Hirundapus caudacutus,False
+Dicrurus annectens,Dicrurus annectens,False
+Monticola solitarius,Monticola solitarius,False
+Tringa brevipes,Tringa brevipes,False
+Lymnocryptes minimus,Lymnocryptes minimus,False
+Chrysococcyx basalis,Chrysococcyx basalis,False
+Luscinia calliope,Luscinia calliope,False
+Coracias garrulus,Coracias garrulus,False
+Streptopelia orientalis,Streptopelia orientalis,False
+Cyanoptila cumatilis,Cyanoptila cumatilis,False
+Anthus godlewskii,Anthus godlewskii,False
+Anthus rufulus,Anthus rufulus,False
+Puffinus carneipes,Puffinus carneipes,False
+Eumyias thalassinus,Eumyias thalassinus,False
+Onychoprion fuscatus,Onychoprion fuscatus,False
+Calonectris leucomelas,Calonectris leucomelas,False
+Phylloscopus plumbeitarsus,Phylloscopus plumbeitarsus,False
+Clamator coromandus,Clamator coromandus,False
+Zoothera dauma,Zoothera dauma,False
+Crex crex,Crex crex,False
+Chroicocephalus brunnicephalus,Chroicocephalus brunnicephalus,False
+Calidris canutus,Calidris canutus,False
+"Centropus andamanensis Beavan, 1867",Centropus andamanensis,True
+"Dryocopus hodgei (Blyth, 1860)",Dryocopus hodgei,True
+"Psittacula longicauda (Boddaert, 1783)",Psittacula longicauda,True
+"Corvus splendens Vieillot, 1817",Corvus splendens,True
+"Dicrurus paradiseus (Linnaeus, 1766)",Dicrurus paradiseus,True
+"Spilornis cheela davisoni Hume, 1873",Spilornis cheela,True
+"Otus sunia modestus (Walden, 1874)",Otus sunia,True
+"Rallina canningi (Blyth, 1863)",Rallina canningi,True
+"Cinnyris jugularis (Linnaeus, 1766)",Cinnyris jugularis,True
+"Merops leschenaulti andamanensis Marien, 1950",Merops leschenaulti,True
+"Chrysococcyx xanthorhynchus (Horsfield, 1821)",Chrysococcyx xanthorhynchus,True
+"Pycnonotus jocosus whistleri Deignan, 1948",Pycnonotus jocosus,True
+"Dicrurus paradiseus otiosus (Richmond, 1902)",Dicrurus paradiseus,True
+"Pericrocotus cinnamomeus (Linnaeus, 1766)",Pericrocotus cinnamomeus,True
+"Anas albogularis (Hume, 1873)",Anas albogularis,True
+"Psittacula alexandri (Linnaeus, 1758)",Psittacula alexandri,True
+"Dicaeum virescens Hume, 1873",Dicaeum virescens,True
+"Pachycephala cinerea (Blyth, 1847)",Pachycephala cinerea,True
+"Urosphena pallidipes (Blanford, 1872)",Urosphena pallidipes,True
+"Copsychus albiventris (Blyth, 1858)",Copsychus albiventris,True
+"Todiramphus chloris (Boddaert, 1783)",Todiramphus chloris,True
+"Collocalia affinis Beavan, 1867",Collocalia affinis,True
+"Amaurornis phoenicurus (Pennant, 1769)",Amaurornis phoenicurus,True
+"Ninox affinis Beavan, 1867",Ninox affinis,True
+"Ducula aenea andamanica Abdulali, 1964",Ducula aenea,True
+"Motacilla tschutschensis Gmelin, 1789",Motacilla tschutschensis,True
+"Macropygia rufipennis Blyth, 1846",Macropygia rufipennis,True
+"Passer domesticus (Linnaeus, 1758)",Passer domesticus,True
+"Otus balli (Hume, 1873)",Otus balli,True
+"Hypothymis azurea tytleri (Beavan, 1867)",Hypothymis azurea,True
+"Otus sunia (Hodgson, 1836)",Otus sunia,True
+"Corvus levaillantii Lesson, 1831",Corvus levaillantii,True
+"Sturnia erythropygia Blyth, 1846",Sturnia erythropygia,True
+"Dicrurus andamanensis Beavan, 1867",Dicrurus andamanensis,True
+"Caprimulgus andamanicus Hume, 1873",Caprimulgus andamanicus,True
+"Pluvialis fulva (J.F.Gmelin, 1789)",Pluvialis fulva,True
+"Pericrocotus speciosus andamanensis Beavan, 1867",Pericrocotus speciosus,True
+"Halcyon smyrnensis saturatior Hume, 1874",Halcyon smyrnensis,True
+"Phylloscopus fuscatus (Blyth, 1842)",Phylloscopus fuscatus,True
+"Lanius cristatus lucionensis Linnaeus, 1766",Lanius cristatus,True
+"Cuculus micropterus Gould, 1838",Cuculus micropterus,True
+"Tyto deroepstorffi (Hume, 1875)",Tyto deroepstorffi,True
+"Aerodramus fuciphagus (Thunberg, 1812)",Aerodramus fuciphagus,True
+"Brachypodius fuscoflavescens Hume, 1873",Brachypodius fuscoflavescens,True
+"Ninox obscura Hume, 1872",Ninox obscura,True
+"Aplonis panayensis (Scopoli, 1786)",Aplonis panayensis,True
+"Pelargopsis capensis (Linnaeus, 1766)",Pelargopsis capensis,True
+"Porphyrio poliocephalus (Latham, 1801)",Porphyrio poliocephalus,True
+"Pitta sordida forsteni Bonaparte, 1850",Pitta sordida,True
+"Cyornis nicobaricus (Richmond, 1902)",Cyornis nicobaricus,True
+"Pericrocotus speciosus (Latham, 1790)",Pericrocotus speciosus,True
+"Chalcophaps indica (Linnaeus, 1758)",Chalcophaps indica,True
+"Actitis hypoleucos (Linnaeus, 1758)",Actitis hypoleucos,True
+"Nisaetus cirrhatus andamanensis (Tytler, 1865)",Nisaetus cirrhatus,True
+"Ducula nicobarica (Pelzeln, 1865)",Ducula nicobarica,True
+"Ducula aenea (Linnaeus, 1766)",Ducula aenea,True
+"Cinnyris jugularis andamanicus (Hume, 1873)",Cinnyris jugularis,True
+"Coracina javensis (Horsfield, 1821)",Coracina javensis,True
+"Dendrocopos analis andamanensis (Blyth, 1859)",Dendrocopos analis,True
+"Otus alius Rasmussen, 1998",Otus alius,True
+"Merops leschenaulti Vieillot, 1817",Merops leschenaulti,True
+"Arundinax aedon (Pallas, 1776)",Arundinax aedon,True
+"Halcyon coromanda (Latham, 1790)",Halcyon coromanda,True
+"Coracina dobsoni (Ball, 1872)",Coracina dobsoni,True
+"Psittacula eupatria (Linnaeus, 1766)",Psittacula eupatria,True
+"Streptopelia tranquebarica (Hermann, 1804)",Streptopelia tranquebarica,True
+"Hypothymis azurea (Boddaert, 1783)",Hypothymis azurea,True
+"Phylloscopus trochiloides (Sundevall, 1837)",Phylloscopus trochiloides,True
+"Acrocephalus stentoreus (Hemprich & Ehrenberg, 1833)",Acrocephalus stentoreus,True
+"Dendrocitta bayleii Tytler, 1863",Dendrocitta bayleii,True
+"Loriculus vernalis (Sparrman, 1787)",Loriculus vernalis,True
+"Lewinia striata (Linnaeus, 1766)",Lewinia striata,True
+"Spilornis elgini (Blyth, 1863)",Spilornis elgini,True
+"Dendrocygna javanica (Horsfield, 1821)",Dendrocygna javanica,True
+"Gallinula chloropus (Linnaeus, 1758)",Gallinula chloropus,True
+"Pycnonotus jocosus (Linnaeus, 1758)",Pycnonotus jocosus,True
+"Psittacula caniceps (Blyth, 1846)",Psittacula caniceps,True
+"Zapornia fusca (Linnaeus, 1766)",Zapornia fusca,True
+"Treron chloropterus Blyth, 1845",Treron chloropterus,True
+"Tringa totanus (Linnaeus, 1758)",Tringa totanus,True
+"Psittacula alexandri abbotti (Oberholser, 1919)",Psittacula alexandri,True
+"Otus sunia nicobaricus (Hume, 1876)",Otus sunia,True
+"Coracina macei (Lesson, 1831)",Coracina macei,True
+"Acrocephalus orientalis (Temminck & Schlegel, 1847)",Acrocephalus orientalis,True
+"Phylloscopus nitidus Blyth, 1843",Phylloscopus nitidus,True
+"Lanius cristatus Linnaeus, 1758",Lanius cristatus,True
+Aves,INVALID_TAXON,True
+"Eurystomus orientalis (Linnaeus, 1766)",Eurystomus orientalis,True
+"Icthyophaga leucogaster (J.F.Gmelin, 1788)",Icthyophaga leucogaster,True
+"Acridotheres tristis (Linnaeus, 1766)",Acridotheres tristis,True
+"Copsychus saularis (Linnaeus, 1758)",Copsychus saularis,True
+"Halcyon smyrnensis (Linnaeus, 1758)",Halcyon smyrnensis,True
+"Hirundo rustica Linnaeus, 1758",Hirundo rustica,True
+"Ardea intermedia Wagler, 1829",Ardea intermedia,True
+"Nisaetus cirrhatus (Gmelin, 1788)",Nisaetus cirrhatus,True
+"Dendrocopos analis (Bonaparte, 1850)",Dendrocopos analis,True
+"Saxicola stejnegeri (Parrot, 1908)",Saxicola stejnegeri,True
+"Sterna sumatrana Raffles, 1822",Sterna sumatrana,True
+"Egretta sacra (Gmelin, 1789)",Egretta sacra,True
+"Cinnyris Cuvier, 1816",Cinnyris cuvier,True
+"Irena puella (Latham, 1790)",Irena puella,True
+"Butorides striata (Linnaeus, 1758)",Butorides striata,True
+"Ardea Linnaeus, 1758",Ardea linnaeus,True
+"Dicrurus macrocercus Vieillot, 1817",Dicrurus macrocercus,True
+"Alcedo meninting Horsfield, 1821",Alcedo meninting,True
+"Microtarsus Eyton, 1839",Microtarsus eyton,True
+"Gallinago gallinago (Linnaeus, 1758)",Gallinago gallinago,True
+"Calidris subminuta (Middendorff, 1853)",Calidris subminuta,True
+"Ceyx erithaca (Linnaeus, 1758)",Ceyx erithaca,True
+"Helopsaltes certhiola (Pallas, 1811)",Helopsaltes certhiola,True
+"Tringa glareola Linnaeus, 1758",Tringa glareola,True
+"Geokichla citrina (Latham, 1790)",Geokichla citrina,True
+"Hydrophasianus chirurgus (Scopoli, 1786)",Hydrophasianus chirurgus,True
+"Agropsar sturninus (Pallas, 1776)",Agropsar sturninus,True
+"Motacilla cinerea Tunstall, 1771",Motacilla cinerea,True
+"Ardea alba Linnaeus, 1758",Ardea alba,True
+Artamus leucorhynchos,Artamus leucorhynchos,False
+"Tringa ochropus Linnaeus, 1758",Tringa ochropus,True
+"Chlidonias hybrida (Pallas, 1811)",Chlidonias hybrida,True
+"Numenius phaeopus (Linnaeus, 1758)",Numenius phaeopus,True
+"Limosa lapponica (Linnaeus, 1758)",Limosa lapponica,True
+"Dendronanthus indicus (Gmelin, 1789)",Dendronanthus indicus,True
+"Merops philippinus Linnaeus, 1767",Merops philippinus,True
+"Tadorna ferruginea (Pallas, 1764)",Tadorna ferruginea,True
+"Botaurus Stephens, 1819",Botaurus stephens,True
+Anarhynchus leschenaultii,Anarhynchus leschenaultii,False
+"Hirundapus giganteus (Temminck, 1825)",Hirundapus giganteus,True
+"Calidris ruficollis (Pallas, 1776)",Calidris ruficollis,True
+"Lonchura striata (Linnaeus, 1766)",Lonchura striata,True
+"Anarhynchus Quoy & Gaimard, 1832",Anarhynchus quoy,True
+"Ducula bicolor (Scopoli, 1786)",Ducula bicolor,True
+"Gallinago stenura (Bonaparte, 1831)",Gallinago stenura,True
+"Ardeola grayii (Sykes, 1832)",Ardeola grayii,True
+"Corvus macrorhynchos Wagler, 1827",Corvus macrorhynchos,True
+"Hirundo javanica Sparrman, 1789",Hirundo javanica,True
+"Zosterops palpebrosus (Temminck, 1824)",Zosterops palpebrosus,True
+"Egretta garzetta (Linnaeus, 1766)",Egretta garzetta,True
+"Eudynamys scolopaceus (Linnaeus, 1758)",Eudynamys scolopaceus,True
+"Anthus cervinus (Pallas, 1811)",Anthus cervinus,True
+"Gracula religiosa Linnaeus, 1758",Gracula religiosa,True
+"Oriolus chinensis Linnaeus, 1766",Oriolus chinensis,True
+"Thinornis G.R.Gray, 1844",Thinornis grgray,True
+"Alcedo atthis (Linnaeus, 1758)",Alcedo atthis,True
+"Calidris ferruginea (Pontoppidan, 1763)",Calidris ferruginea,True
+"Aviceda leuphotes (Dumont, 1820)",Aviceda leuphotes,True
+"Muscicapa dauurica Pallas, 1811",Muscicapa dauurica,True
+"Numenius arquata (Linnaeus, 1758)",Numenius arquata,True
+"Psittacula eupatria magnirostris (Ball, 1872)",Psittacula eupatria,True
+"Columba palumboides (Hume, 1873)",Columba palumboides,True
+"Psittacula longicauda tytleri (Hume, 1874)",Psittacula longicauda,True
+"Lonchura punctulata (Linnaeus, 1758)",Lonchura punctulata,True
+"Columba livia J.F.Gmelin, 1789",Columba livia,True
+"Glareola maldivarum J.R.Forster, 1795",Glareola maldivarum,True
+"Nettapus coromandelianus (J.F.Gmelin, 1789)",Nettapus coromandelianus,True
+"Limosa limosa (Linnaeus, 1758)",Limosa limosa,True
+"Gallicrex cinerea (Gmelin, 1789)",Gallicrex cinerea,True
+"Phylloscopus borealis (J.H.Blasius, 1858)",Phylloscopus borealis,True
+"Spatula clypeata (Linnaeus, 1758)",Spatula clypeata,True
+"Phylloscopus inornatus (Blyth, 1842)",Phylloscopus inornatus,True
+"Haliastur indus (Boddaert, 1783)",Haliastur indus,True
+"Ardea purpurea Linnaeus, 1766",Ardea purpurea,True
+"Tachyspiza Kaup, 1844",Tachyspiza kaup,True
+"Anthus richardi Vieillot, 1818",Anthus richardi,True
+"Anastomus oscitans (Boddaert, 1783)",Anastomus oscitans,True
+"Zapornia pusilla (Pallas, 1776)",Zapornia pusilla,True
+"Onychoprion fuscatus (Linnaeus, 1766)",Onychoprion fuscatus,True
+"Acrocephalus bistrigiceps Swinhoe, 1860",Acrocephalus bistrigiceps,True
+"Ardea cinerea Linnaeus, 1758",Ardea cinerea,True
+"Calandrella dukhunensis (Sykes, 1832)",Calandrella dukhunensis,True
+"Dicrurus leucophaeus Vieillot, 1817",Dicrurus leucophaeus,True
+"Rhyticeros narcondami Hume, 1873",Rhyticeros narcondami,True
+"Fulica atra Linnaeus, 1758",Fulica atra,True
+"Thalasseus bengalensis (R.Lesson, 1831)",Thalasseus bengalensis,True
+"Ardeola bacchus (Bonaparte, 1855)",Ardeola bacchus,True
+"Oriolus xanthornus (Linnaeus, 1758)",Oriolus xanthornus,True
+"Ficedula albicilla (Pallas, 1811)",Ficedula albicilla,True
+"Tringa nebularia (Gunnerus, 1767)",Tringa nebularia,True
+"Turdus obscurus Gmelin, 1789",Turdus obscurus,True
+"Aethopyga siparaja (Raffles, 1822)",Aethopyga siparaja,True
+"Pericrocotus divaricatus (Raffles, 1822)",Pericrocotus divaricatus,True
+"Alauda gulgula Franklin, 1831",Alauda gulgula,True
+"Spilornis cheela (Latham, 1790)",Spilornis cheela,True
+"Vanellus cinereus (Blyth, 1842)",Vanellus cinereus,True
+"Caloenas nicobarica (Linnaeus, 1758)",Caloenas nicobarica,True
+"Cecropis daurica (Laxmann, 1769)",Cecropis daurica,True
+"Vanellus vanellus (Linnaeus, 1758)",Vanellus vanellus,True
+"Ardenna carneipes (Gould, 1844)",Ardenna carneipes,True
+"Halcyon pileata (Boddaert, 1783)",Halcyon pileata,True
+"Circus melanoleucos (Pennant, 1769)",Circus melanoleucos,True
+Anarhynchus alexandrinus,Anarhynchus alexandrinus,False
+"Calidris falcinellus (Pontoppidan, 1763)",Calidris falcinellus,True
+"Esacus magnirostris (Vieillot, 1818)",Esacus magnirostris,True
+"Pastor roseus (Linnaeus, 1758)",Pastor roseus,True
+"Spatula querquedula (Linnaeus, 1758)",Spatula querquedula,True
+"Dromas ardeola Paykull, 1805",Dromas ardeola,True
+"Ninox scutulata (Raffles, 1822)",Ninox scutulata,True
+"Sternula albifrons (Pallas, 1764)",Sternula albifrons,True
+"Thalasseus bergii (M.H.K.Lichtenstein, 1823)",Thalasseus bergii,True
+"Motacilla alba Linnaeus, 1758",Motacilla alba,True
+"Ardeola speciosa (Horsfield, 1821)",Ardeola speciosa,True
+"Saxicola maurus (Pallas, 1773)",Saxicola maurus,True
+"Arenaria interpres (Linnaeus, 1758)",Arenaria interpres,True
+"Terpsiphone affinis (Blyth, 1846)",Terpsiphone affinis,True
+"Tringa stagnatilis (Bechstein, 1803)",Tringa stagnatilis,True
+"Calidris minuta (Leisler, 1812)",Calidris minuta,True
+"Sterna dougallii Montagu, 1813",Sterna dougallii,True
+"Aix galericulata (Linnaeus, 1758)",Aix galericulata,True
+"Pernis ptilorhynchus (Temminck, 1821)",Pernis ptilorhynchus,True
+"Emberiza chrysophrys Pallas, 1776",Emberiza chrysophrys,True
+"Cuculus canorus Linnaeus, 1758",Cuculus canorus,True
+"Xenus cinereus (Güldenstädt, 1775)",Xenus cinereus,True
+"Agropsar philippensis (J.R.Forster, 1781)",Agropsar philippensis,True
+"Egretta eulophotes (Swinhoe, 1860)",Egretta eulophotes,True
+"Upupa epops Linnaeus, 1758",Upupa epops,True
+"Milvus migrans (Boddaert, 1783)",Milvus migrans,True
+"Gelochelidon nilotica (J.F.Gmelin, 1789)",Gelochelidon nilotica,True
+"Pluvialis squatarola (Linnaeus, 1758)",Pluvialis squatarola,True
+"Calidris melanotos (Vieillot, 1819)",Calidris melanotos,True
+"Onychoprion anaethetus (Scopoli, 1786)",Onychoprion anaethetus,True
+"Pitta sordida (Statius Muller, 1776)",Pitta sordida,True
+"Aviceda jerdoni (Blyth, 1842)",Aviceda jerdoni,True
+"Hypsipetes nicobariensis Moore, 1854",Hypsipetes nicobariensis,True
+"Chlidonias leucopterus (Temminck, 1815)",Chlidonias leucopterus,True
+"Merops persicus Pallas, 1773",Merops persicus,True
+"Locustella lanceolata (Temminck, 1840)",Locustella lanceolata,True
+"Anous stolidus (Linnaeus, 1758)",Anous stolidus,True
+"Himantopus himantopus (Linnaeus, 1758)",Himantopus himantopus,True
+"Pandion haliaetus (Linnaeus, 1758)",Pandion haliaetus,True
+"Pitta moluccensis (Statius Muller, 1776)",Pitta moluccensis,True
+"Turdus mandarinus Bonaparte, 1850",Turdus mandarinus,True
+"Sarkidiornis melanotos (Pennant, 1769)",Sarkidiornis melanotos,True
+"Pitta Vieillot, 1816",Pitta vieillot,True
+"Clamator coromandus (Linnaeus, 1766)",Clamator coromandus,True
+"Calidris temminckii (Leisler, 1812)",Calidris temminckii,True
+"Circus spilonotus Kaup, 1847",Circus spilonotus,True
+"Calidris pugnax (Linnaeus, 1758)",Calidris pugnax,True
+"Poliolimnas cinereus (Vieillot, 1819)",Poliolimnas cinereus,True
+"Cuculus saturatus Blyth, 1843",Cuculus saturatus,True
+"Ortygornis pondicerianus (J.F.Gmelin, 1789)",Ortygornis pondicerianus,True
+"Phylloscopus borealoides Portenko, 1950",Phylloscopus borealoides,True
+"Cisticola juncidis (Rafinesque, 1810)",Cisticola juncidis,True
+"Calidris alba (Pallas, 1764)",Calidris alba,True
+"Apus pacificus (Latham, 1801)",Apus pacificus,True
+"Luscinia svecica (Linnaeus, 1758)",Luscinia svecica,True
+"Spilornis klossi Richmond, 1902",Spilornis klossi,True
+"Falco peregrinus Tunstall, 1771",Falco peregrinus,True
+"Calidris tenuirostris (Horsfield, 1821)",Calidris tenuirostris,True
+"Hemitesia pallidipes (Blanford, 1872)",Hemitesia pallidipes,True
+"Nycticorax nycticorax (Linnaeus, 1758)",Nycticorax nycticorax,True
+"Rostratula benghalensis (Linnaeus, 1758)",Rostratula benghalensis,True
+"Ardenna pacifica (J.F.Gmelin, 1789)",Ardenna pacifica,True
+"Mareca penelope (Linnaeus, 1758)",Mareca penelope,True
+"Oceanites oceanicus (Kuhl, 1820)",Oceanites oceanicus,True
+"Jynx torquilla Linnaeus, 1758",Jynx torquilla,True
+"Megapodius nicobariensis Blyth, 1846",Megapodius nicobariensis,True
+"Lalage nigra (J.R.Forster, 1781)",Lalage nigra,True
+"Pavo cristatus Linnaeus, 1758",Pavo cristatus,True
+"Rallina fasciata (Raffles, 1822)",Rallina fasciata,True
+"Tachybaptus ruficollis (Pallas, 1764)",Tachybaptus ruficollis,True
+"Delichon dasypus (Bonaparte, 1850)",Delichon dasypus,True
+"Surniculus lugubris (Horsfield, 1821)",Surniculus lugubris,True
+"Falco tinnunculus Linnaeus, 1758",Falco tinnunculus,True
+"Riparia riparia (Linnaeus, 1758)",Riparia riparia,True
+"Irena puella andamanica Abdulali, 1964",Irena puella,True
+"Loriculus vernalis vernalis (Sparrman, 1787)",Loriculus vernalis,True
+"Dicrurus andamanensis andamanensis Beavan, 1867",Dicrurus andamanensis,True
+"Haliaeetus leucogaster (Gmelin, 1788)",Haliaeetus leucogaster,True
+"Collocalia esculenta (Linnaeus, 1758)",Collocalia esculenta,True
+"Pericrocotus flammeus (J.R.Forster, 1781)",Pericrocotus flammeus,True
+"Charadrius leschenaultii R.Lesson, 1826",Charadrius leschenaultii,True
+"Pycnonotus F.Boie, 1826",Pycnonotus fboie,True
+"Butorides Blyth, 1852",Butorides blyth,True
+"Caprimulgus jotaka Temminck & Schlegel, 1845",Caprimulgus jotaka,True
+"Sterna hirundo Linnaeus, 1758",Sterna hirundo,True
+"Aythya fuligula (Linnaeus, 1758)",Aythya fuligula,True
+"Plegadis falcinellus (Linnaeus, 1766)",Plegadis falcinellus,True
+"Gorsachius melanolophus (Raffles, 1822)",Gorsachius melanolophus,True
+"Stercorarius pomarinus (Temminck, 1815)",Stercorarius pomarinus,True
+"Aythya nyroca (Güldenstädt, 1770)",Aythya nyroca,True
+"Hierococcyx sparverioides (Vigors, 1832)",Hierococcyx sparverioides,True
+"Circus aeruginosus (Linnaeus, 1758)",Circus aeruginosus,True
+"Clamator jacobinus (Boddaert, 1783)",Clamator jacobinus,True
+"Apus nipalensis (Hodgson, 1837)",Apus nipalensis,True
+"Cyornis rubeculoides (Vigors, 1831)",Cyornis rubeculoides,True
+"Geokichla sibirica (Pallas, 1776)",Geokichla sibirica,True
+"Anhinga melanogaster Pennant, 1769",Anhinga melanogaster,True
+"Calliope calliope (Pallas, 1776)",Calliope calliope,True
+"Glareola lactea Temminck, 1820",Glareola lactea,True
+"Emberiza pusilla Pallas, 1776",Emberiza pusilla,True
+"Glareola pratincola (Linnaeus, 1766)",Glareola pratincola,True
+"Phalacrocorax fuscicollis Stephens, 1826",Phalacrocorax fuscicollis,True
+"Motacilla citreola Pallas, 1776",Motacilla citreola,True
+"Phaethon lepturus Daudin, 1802",Phaethon lepturus,True
+"Terpsiphone paradisi (Linnaeus, 1758)",Terpsiphone paradisi,True
+"Ficedula zanthopygia (Hay, 1845)",Ficedula zanthopygia,True
+"Cuculus poliocephalus Latham, 1790",Cuculus poliocephalus,True
+"Apus apus (Linnaeus, 1758)",Apus apus,True
+"Muscicapa sibirica Gmelin, 1789",Muscicapa sibirica,True
+"Terpsiphone incei (Gould, 1852)",Terpsiphone incei,True
+"Carpodacus erythrinus (Pallas, 1770)",Carpodacus erythrinus,True
+"Streptopelia orientalis (Latham, 1790)",Streptopelia orientalis,True
+"Anas acuta Linnaeus, 1758",Anas acuta,True
+"Meleagris gallopavo Linnaeus, 1758",Meleagris gallopavo,True
+"Chrysococcyx maculatus (Gmelin, 1788)",Chrysococcyx maculatus,True
+"Phylloscopus tenellipes Swinhoe, 1860",Phylloscopus tenellipes,True
+"Turnix tanki Blyth, 1843",Turnix tanki,True
+"Ficedula mugimaki (Temminck, 1836)",Ficedula mugimaki,True
+"Falco amurensis Radde, 1863",Falco amurensis,True
+"Apus leuconyx (Blyth, 1845)",Apus leuconyx,True
+"Microcarbo niger (Vieillot, 1817)",Microcarbo niger,True
+"Iduna caligata (Lichtenstein, 1823)",Iduna caligata,True
+"Muscicapa griseisticta (Swinhoe, 1861)",Muscicapa griseisticta,True
+"Aerodramus brevirostris (Horsfield, 1840)",Aerodramus brevirostris,True
+"Muscicapa ferruginea (Hodgson, 1845)",Muscicapa ferruginea,True
+"Sturnus vulgaris Linnaeus, 1758",Sturnus vulgaris,True
+"Buteo rufinus (Cretzschmar, 1829)",Buteo rufinus,True
+"Larvivora cyane (Pallas, 1776)",Larvivora cyane,True
+"Fregata ariel (G.R.Gray, 1845)",Fregata ariel,True
+"Lalage melaschistos (Hodgson, 1836)",Lalage melaschistos,True
+"Cyanoptila cyanomelana (Temminck, 1829)",Cyanoptila cyanomelana,True
+"Emberiza fucata Pallas, 1776",Emberiza fucata,True
+"Anas platyrhynchos Linnaeus, 1758",Anas platyrhynchos,True
+"Cypsiurus balasiensis (J.E.Gray, 1829)",Cypsiurus balasiensis,True
+"Muscicapa striata (Pallas, 1764)",Muscicapa striata,True
+"Coracias garrulus Linnaeus, 1758",Coracias garrulus,True
+"Hirundapus caudacutus (Latham, 1801)",Hirundapus caudacutus,True
+"Charadrius hiaticula Linnaeus, 1758",Charadrius hiaticula,True
+"Gallinago nemoricola Hodgson, 1836",Gallinago nemoricola,True
+"Larus fuscus Linnaeus, 1758",Larus fuscus,True
+"Cacomantis merulinus (Scopoli, 1786)",Cacomantis merulinus,True
+"Dicrurus annectens (Hodgson, 1836)",Dicrurus annectens,True
+"Oriolus chinensis andamanensis Beavan, 1867",Oriolus chinensis,True
+"Pericrocotus cantonensis Swinhoe & P.L.Sclater, 1861",Pericrocotus cantonensis,True
+"Rallina eurizonoides (Lafresnaye, 1845)",Rallina eurizonoides,True
+"Chroicocephalus brunnicephalus (Jerdon, 1840)",Chroicocephalus brunnicephalus,True
+"Butastur indicus (Gmelin, 1788)",Butastur indicus,True
+"Coracias affinis Horsfield, 1840",Coracias affinis,True
+"Hieraaetus pennatus (Gmelin, 1788)",Hieraaetus pennatus,True
+"Phylloscopus magnirostris Blyth, 1843",Phylloscopus magnirostris,True
+"Emberiza spodocephala Pallas, 1776",Emberiza spodocephala,True
+"Hierococcyx nisicolor (Blyth, 1843)",Hierococcyx nisicolor,True
+"Centropus bengalensis (Gmelin, 1788)",Centropus bengalensis,True
+"Melopsittacus undulatus (Shaw, 1805)",Melopsittacus undulatus,True
+"Coturnix japonica Temminck & Schlegel, 1848",Coturnix japonica,True
+"Monticola solitarius (Linnaeus, 1758)",Monticola solitarius,True
+"Lymnocryptes minimus (Brünnich, 1764)",Lymnocryptes minimus,True
+"Emberiza hortulana Linnaeus, 1758",Emberiza hortulana,True
+"Zapornia paykullii (Ljungh, 1813)",Zapornia paykullii,True
+"Phylloscopus trochilus (Linnaeus, 1758)",Phylloscopus trochilus,True
+"Passer montanus (Linnaeus, 1758)",Passer montanus,True
+"Calonectris leucomelas (Temminck, 1836)",Calonectris leucomelas,True
+"Cacomantis passerinus (Vahl, 1797)",Cacomantis passerinus,True
+"Anarhynchus veredus (Gould, 1848)",Anarhynchus veredus,True
+"Crex crex (Linnaeus, 1758)",Crex crex,True
+"Streptopelia decaocto (Frivaldszky, 1838)",Streptopelia decaocto,True
+"Eumyias thalassinus (Swainson, 1838)",Eumyias thalassinus,True
+"Tringa brevipes (Vieillot, 1816)",Tringa brevipes,True
+"Stercorarius parasiticus (Linnaeus, 1758)",Stercorarius parasiticus,True
+"Buteo buteo (Linnaeus, 1758)",Buteo buteo,True
+"Tringa erythropus (Pallas, 1764)",Tringa erythropus,True
+"Anthus rufulus Vieillot, 1818",Anthus rufulus,True
+"Cacomantis sonneratii (Latham, 1790)",Cacomantis sonneratii,True
+"Zoothera dauma (Latham, 1790)",Zoothera dauma,True
+"Cyanoptila cumatilis Thayer & Bangs, 1909",Cyanoptila cumatilis,True
+"Limnodromus semipalmatus (Blyth, 1848)",Limnodromus semipalmatus,True
+"Sula dactylatra Lesson, 1831",Sula dactylatra,True
+"Calidris canutus (Linnaeus, 1758)",Calidris canutus,True
+"Anous tenuirostris (Temminck, 1823)",Anous tenuirostris,True
+"Phylloscopus affinis (Tickell, 1833)",Phylloscopus affinis,True
+"Fregata andrewsi Mathews, 1914",Fregata andrewsi,True
+"Motacilla flava Linnaeus, 1758",Motacilla flava,True
+"Anthus godlewskii (Taczanowski, 1876)",Anthus godlewskii,True
+"Sturnia erythropygia andamanensis (Beavan, 1867)",Sturnia erythropygia,True
+"Todiramphus chloris davisoni (Sharpe, 1892)",Todiramphus chloris,True
+"Columba livia var. domestica J.F.Gmelin, 1789",Columba livia,True
+"Eurystomus orientalis gigas Stresemann, 1913",Eurystomus orientalis,True
+"Gracula religiosa andamanensis (Beavan, 1867)",Gracula religiosa,True
+"Geokichla citrina andamanensis (Walden, 1874)",Geokichla citrina,True
+"Aplonis panayensis tytleri (Hume, 1873)",Aplonis panayensis,True
+"Aethopyga siparaja nicobarica Hume, 1873",Aethopyga siparaja,True
+"Pelargopsis capensis osmastoni (E.C.S.Baker, 1934)",Pelargopsis capensis,True
+"Oriolus kundoo Sykes, 1832",Oriolus kundoo,True
+"Sternula albifrons sinensis (J.F.Gmelin, 1789)",Sternula albifrons,True
+"Copsychus saularis andamanensis Hume, 1874",Copsychus saularis,True
+"Dicrurus leucophaeus leucogenis (Walden, 1870)",Dicrurus leucophaeus,True
+"Amaurornis phoenicurus insularis Sharpe, 1894",Amaurornis phoenicurus,True
+"Aviceda leuphotes andamanica Abdulali & Grubh, 1970",Aviceda leuphotes,True
+"Aerodramus fuciphagus germani (Oustalet, 1876)",Aerodramus fuciphagus,True
+"Passer domesticus indicus Jardine & Selby, 1831",Passer domesticus,True
+"Ninox scutulata rexpimenti Abdulali, 1979",Ninox scutulata,True
+Anas platyrhynchos f. domesticus,Anas platyrhynchos,True
+"Streptopelia tranquebarica tranquebarica (Hermann, 1804)",Streptopelia tranquebarica,True
+"Zosterops palpebrosus nicobaricus Blyth, 1845",Zosterops palpebrosus,True
+"Cinnyris asiaticus (Latham, 1790)",Cinnyris asiaticus,True
+"Macropygia rufipennis andamanica Abdulali, 1967",Macropygia rufipennis,True
+"Nettapus coromandelianus coromandelianus (J.F.Gmelin, 1789)",Nettapus coromandelianus,True
+"Alcedo meninting rufigastra Walden, 1873",Alcedo meninting,True
+"Pericrocotus cinnamomeus vividus E.C.S.Baker, 1920",Pericrocotus cinnamomeus,True
+"Aerodramus fuciphagus inexpectatus (Hume, 1873)",Aerodramus fuciphagus,True
+"Gallinula chloropus chloropus (Linnaeus, 1758)",Gallinula chloropus,True
+"Egretta garzetta garzetta (Linnaeus, 1766)",Egretta garzetta,True
+"Motacilla tschutschensis taivana (Swinhoe, 1863)",Motacilla tschutschensis,True
+"Dicrurus leucophaeus salangensis Reichenow, 1890",Dicrurus leucophaeus,True
+"Hypsipetes leucocephalus (Gmelin, 1789)",Hypsipetes leucocephalus,True
+"Psittacula longicauda nicobarica (Gould, 1857)",Psittacula longicauda,True
+"Pandion haliaetus haliaetus (Linnaeus, 1758)",Pandion haliaetus,True
+"Hirundo tahitica Gmelin, 1789",Hirundo tahitica,True
+"Collocalia affinis affinis Beavan, 1867",Collocalia affinis,True
+"Lonchura striata fumigata (Walden, 1873)",Lonchura striata,True
+"Chalcophaps indica maxima Hartert, 1931",Chalcophaps indica,True
+Porphyrio poliocephalus poliocephalus,Porphyrio poliocephalus,True
+"Lewinia striata obscurior (Hume, 1874)",Lewinia striata,True
+"Gallinula chloropus orientalis Horsfield, 1821",Gallinula chloropus,True
+"Dicrurus paradiseus nicobariensis (E.C.S.Baker, 1918)",Dicrurus paradiseus,True
+AVES,INVALID_TAXON,True
+Ardea coromanda,Ardea coromanda,False
+Icthyophaga leucogaster,Icthyophaga leucogaster,False
+Artamus leucorynchus,Artamus leucorynchus,False
+Cinnyris ornatus,Cinnyris ornatus,False
+Anas albogularis,Anas albogularis,False
+Botaurus cinnamomeus,Botaurus cinnamomeus,False
+Ardea intermedia,Ardea intermedia,False
+Porphyrio poliocephalus,Porphyrio poliocephalus,False
+Microtarsus fuscoflavescens,Microtarsus fuscoflavescens,False
+Helopsaltes certhiola,Helopsaltes certhiola,False
+Lewinia striata,Lewinia striata,False
+Arundinax aedon,Arundinax aedon,False
+Anarhynchus atrifrons,Anarhynchus atrifrons,False
+Tachyspiza soloensis,Tachyspiza soloensis,False
+Thinornis dubius,Thinornis dubius,False
+Muscicapa dauurica,Muscicapa dauurica,False
+Hirundo javanica,Hirundo javanica,False
+Botaurus sinensis,Botaurus sinensis,False
+Coracina javensis,Coracina javensis,False
+Ardenna carneipes,Ardenna carneipes,False
+Spatula clypeata,Spatula clypeata,False
+Zapornia pusilla,Zapornia pusilla,False
+Calandrella dukhunensis,Calandrella dukhunensis,False
+Spatula querquedula,Spatula querquedula,False
+Zapornia fusca,Zapornia fusca,False
+Tachyspiza virgata,Tachyspiza virgata,False
+Calidris falcinellus,Calidris falcinellus,False
+Terpsiphone affinis,Terpsiphone affinis,False
+Hypsipetes nicobariensis,Hypsipetes nicobariensis,False
+Botaurus flavicollis,Botaurus flavicollis,False
+Pitta abbotti,Pitta abbotti,False
+Circus spilonotus,Circus spilonotus,False
+Tachyspiza gularis,Tachyspiza gularis,False
+Poliolimnas cinereus,Poliolimnas cinereus,False
+Calidris pugnax,Calidris pugnax,False
+Cyornis nicobaricus,Cyornis nicobaricus,False
+Ortygornis pondicerianus,Ortygornis pondicerianus,False
+Hemitesia pallidipes,Hemitesia pallidipes,False
+Mareca penelope,Mareca penelope,False
+Oceanites oceanicus,Oceanites oceanicus,False
+Ardenna pacifica,Ardenna pacifica,False
+Riparia riparia,Riparia riparia,False
+Hierococcyx sparverioides,Hierococcyx sparverioides,False
+Apus nipalensis,Apus nipalensis,False
+Calliope calliope,Calliope calliope,False
+Irena puella andamanica,Irena puella,True
+Dicrurus andamanensis andamanensis,Dicrurus andamanensis,True
+Butorides atricapilla javanica,Butorides atricapilla,True
+Loriculus vernalis vernalis,Loriculus vernalis,True
+Phalacrocorax fuscicollis,Phalacrocorax fuscicollis,False
+Pycnonotus,INVALID_TAXON,True
+Terpsiphone incei,Terpsiphone incei,False
+Apus apus,Apus apus,False
+Meleagris gallopavo,Meleagris gallopavo,False
+Butorides atricapilla spodiogaster,Butorides atricapilla,True
+Spilornis cheela davisoni,Spilornis cheela,True
+Phylloscopus tenellipes,Phylloscopus tenellipes,False
+Iduna caligata,Iduna caligata,False
+Muscicapa griseisticta,Muscicapa griseisticta,False
+Larvivora cyane,Larvivora cyane,False
+Lalage melaschistos,Lalage melaschistos,False
+Tachyspiza butleri,Tachyspiza butleri,False
+Cypsiurus balasiensis,Cypsiurus balasiensis,False
+Anas platyrhynchos,Anas platyrhynchos,False
+Emberiza fucata,Emberiza fucata,False
+Muscicapa striata,Muscicapa striata,False
+Charadrius hiaticula,Charadrius hiaticula,False
+Cacomantis merulinus,Cacomantis merulinus,False
+Coracias affinis,Coracias affinis,False
+Hieraaetus pennatus,Hieraaetus pennatus,False
+Hierococcyx nisicolor,Hierococcyx nisicolor,False
+Centropus bengalensis,Centropus bengalensis,False
+Melopsittacus undulatus,Melopsittacus undulatus,False
+Coturnix japonica,Coturnix japonica,False
+Zapornia paykullii,Zapornia paykullii,False
+Phylloscopus trochilus,Phylloscopus trochilus,False
+Passer montanus,Passer montanus,False
+Anarhynchus veredus,Anarhynchus veredus,False
+Streptopelia decaocto,Streptopelia decaocto,False
+Limnodromus semipalmatus,Limnodromus semipalmatus,False
+Anous tenuirostris,Anous tenuirostris,False
+Fregata andrewsi,Fregata andrewsi,False
+Motacilla flava,Motacilla flava,False
+Gracula religiosa andamanensis,Gracula religiosa,True
+Merops leschenaulti andamanensis,Merops leschenaulti,True
+Nisaetus cirrhatus andamanensis,Nisaetus cirrhatus,True
+Macropygia rufipennis andamanica,Macropygia rufipennis,True
+Coracina javensis andamana,Coracina javensis,True
+Pycnonotus jocosus whistleri,Pycnonotus jocosus,True
+Todiramphus chloris davisoni,Todiramphus chloris,True
+Otus sunia modestus,Otus sunia,True
+Sturnia erythropygia andamanensis,Sturnia erythropygia,True
+Halcyon smyrnensis saturatior,Halcyon smyrnensis,True
+Collocalia affinis affinis,Collocalia affinis,True
+Lanius cristatus lucionensis,Lanius cristatus,True
+Psittacula alexandri abbotti,Psittacula alexandri,True
+Pericrocotus speciosus andamanensis,Pericrocotus speciosus,True
+Lonchura striata fumigata,Lonchura striata,True
+Psittacula longicauda tytleri,Psittacula longicauda,True
+Hypothymis azurea tytleri,Hypothymis azurea,True
+Chalcophaps indica maxima,Chalcophaps indica,True
+Aviceda leuphotes andamanica,Aviceda leuphotes,True
+Pelargopsis capensis osmastoni,Pelargopsis capensis,True
+Eurystomus orientalis gigas,Eurystomus orientalis,True
+Dicrurus paradiseus otiosus,Dicrurus paradiseus,True
+Psittacula eupatria magnirostris,Psittacula eupatria,True
+Lewinia striata obscurior,Lewinia striata,True
+Oriolus chinensis andamanensis,Oriolus chinensis,True
+Dendrocopos analis andamanensis,Dendrocopos analis,True
+Ducula aenea andamanica,Ducula aenea,True
+Geokichla citrina andamanensis,Geokichla citrina,True
+Gallinula chloropus orientalis,Gallinula chloropus,True
+Dicrurus paradiseus nicobariensis,Dicrurus paradiseus,True
+Pericrocotus cinnamomeus vividus,Pericrocotus cinnamomeus,True
+Alcedo meninting rufigastra,Alcedo meninting,True

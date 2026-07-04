@@ -1,0 +1,10 @@
+MBSQI RAW DATA SCHEMA AUDIT
+FILE: ANI_ONLY_0086343-230224095556074.csv | COLS: 50
+FILE: ANI_ONLY_bird_migration_data.csv | COLS: 41
+FILE: ANI_ONLY_Bird_Migration_Data_with_Origin.csv | COLS: 42
+FILE: ANI_ONLY_bird_migration_with_origin_destination.csv | COLS: 43
+FILE: ANI_ONLY_observations-695944.csv | COLS: 11
+FILE: ANI_ONLY_obv_1773762703867.csv | COLS: 29
+FILE: ANI_ONLY_obv_1773762873998.csv | COLS: 29
+FILE: ANI_ONLY_occurrence.csv | COLS: 230
+FILE: ANI_ONLY_verbatim.csv | COLS: 194

@@ -1,0 +1,42 @@
+{
+    "execution_timestamp": "2026-05-07T01:05:32.277689",
+    "input_directory": "C:\\Users\\Abhishek\\IIITH\\IITH\\INDEPENDENT_STUDY\\PROJECT\\PHASE1\\EXTRACTED_ANI_BIRDS",
+    "output_directory": "C:\\Users\\Abhishek\\IIITH\\IITH\\INDEPENDENT_STUDY\\PROJECT\\PHASE1\\CLEANED_DATA",
+    "thresholds_used": {
+        "max_missing_pct": 50.0,
+        "year_range": [
+            2005,
+            2025
+        ],
+        "ani_bounds": {
+            "lat_min": 6.0,
+            "lat_max": 14.0,
+            "lon_min": 92.0,
+            "lon_max": 94.5
+        },
+        "min_records_migratory": 50,
+        "max_summer_ratio": 0.05,
+        "max_grid_density": 4,
+        "min_species_retention_pct": 90.0
+    },
+    "record_counts": {
+        "1_Ingestion": 1473903,
+        "2_FeatureDensity": 1473903,
+        "3_Temporal": 1459598,
+        "4_Spatial": 1459598,
+        "4.5_Duplicates": 312475,
+        "5_Taxonomy": 312472,
+        "6_Migratory": 50760,
+        "7_Thinning": 7179
+    },
+    "species_counts": {
+        "1_Ingestion": 1187,
+        "2_FeatureDensity": 1187,
+        "3_Temporal": 841,
+        "4_Spatial": 841,
+        "4.5_Duplicates": 841,
+        "5_Taxonomy": 409,
+        "6_Migratory": 77,
+        "7_Thinning": 77
+    }
+}
